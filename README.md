@@ -87,6 +87,8 @@ npm run dev
 ```
 
 Open http://localhost:3000 with your browser to see the result.
+OR,
+Visit the live URL at: https://next-mantine-todo.vercel.app/
 
 ### **Project Structure**
 
