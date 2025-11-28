@@ -33,11 +33,11 @@ A clean, modern, fully responsive **Task Management App** built with
 
 ### Desktop Layout
 
-_A clean overview of tasks, filters, and actions._
+https://github.com/user-attachments/assets/e74394ff-4793-472b-a4a1-38d1d82ffaf1
 
 ### Mobile Layout
 
-_Responsive design with stackable components._
+https://github.com/user-attachments/assets/0d14d38a-e2b6-43d0-8b9e-45a76ff5e7f1
 
 ---
 
